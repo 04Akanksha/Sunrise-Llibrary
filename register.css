@@ -1,0 +1,47 @@
+body{background-image:url("image/imgRegister/pic1.jpg");
+        background-size: cover;
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+	    align:center;}
+form{ 
+    width: 500px;
+    height: 100%px;
+    background-color: white;
+    color:#b1710b;
+    margin: 100px 0px 0px 425px;
+    padding: 5px 0px 0px 20px;
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 10px;
+    }
+a {
+   text-decoration: none;
+  }
+input{
+    background-color: white;
+    color:#b0843c;
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 7px ;
+    border-color:  #e7991b;
+    width: 90%;
+
+}
+textarea{
+
+    background-color: white;
+    color:#b0843c;
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 7px ;
+    border-color:  #e7991b;
+    width: 90%;
+}
+button{
+    background-color: #b0843c;
+    border-radius: 7px;
+    width: 90%;
+    border-color: #e7991b;
+
+}
+      
